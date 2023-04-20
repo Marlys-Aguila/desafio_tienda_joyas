@@ -1,4 +1,5 @@
-# API de Joyería My Precious Spa
+# Desafío API de Joyería My Precious Spa
+### Usando Node y Express
 
 La API de Joyería My Precious Spa permite a los usuarios obtener información sobre las joyas almacenadas en la base de datos. La API permite la paginación, filtrado, ordenamiento y proporciona una estructura de datos HATEOAS para facilitar la navegación.
 
